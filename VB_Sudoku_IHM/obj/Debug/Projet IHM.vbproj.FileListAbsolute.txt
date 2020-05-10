@@ -1,0 +1,201 @@
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe.config
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\bin\Debug\Projet IHM.pdb
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\bin\Debug\Projet IHM.xml
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet IHM.exe
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet IHM.xml
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet IHM.pdb
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+c:\users\alex0u\documents\visual studio 2017\Projects\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Downloads\Projet IHM\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V3\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V4\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V6\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V7\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V8\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM V9\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V10\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V11\Projet IHM\obj\Debug\Projet_IHM.Options.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet_IHM.Options.resources
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V12\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet_IHM.Options.resources
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Alex0u\Desktop\Projet IHM V13\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet_IHM.Options.resources
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\romain\Desktop\Projet IHM VFINALE\Projet IHM\obj\Debug\Projet IHM.pdb
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\bin\Debug\Projet IHM.exe.config
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\bin\Debug\Projet IHM.exe
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\bin\Debug\Projet IHM.pdb
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\bin\Debug\Projet IHM.xml
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet_IHM.Form1.resources
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet_IHM.Form2.resources
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet_IHM.Form3.resources
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet_IHM.Resources.resources
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet_IHM.Options.resources
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.exe
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.xml
+C:\Users\Jey\Desktop\Projet IHM FINAL\Projet IHM VFINALE 1.0\Projet IHM\obj\Debug\Projet IHM.pdb
